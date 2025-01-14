@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BirdGame</string>
+
+    <string name="game_info">Innocent Bird need 200 points to reach nest. Can you help the poor bird to escape from enemies</string>
+</resources>
