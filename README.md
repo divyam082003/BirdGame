@@ -21,7 +21,7 @@ BirdGame is an engaging and addictive Android game where players control a bird 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="screenshot/splash.png"  width="200px" height="400px">
-  <img src="screenshot/home.png" width="200px" height="400px">
+  <img src="screenshot/home.png" width="400px" height="200px">
   <img src="screenshot/play.png" width="200px" height="400px">
   <img src="screenshot/won.png"  width="200px" height="400px">
   <img src="screenshot/score.png" width="200px" height="400px">
